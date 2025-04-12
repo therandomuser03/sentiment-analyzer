@@ -26,8 +26,8 @@ A simple web application that uses **NLTK's VADER** sentiment analysis tool to d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/text-sentiment-analyzer.git
-cd text-sentiment-analyzer
+git clone https://github.com/therandomuser03/sentiment-analyzer.git
+cd sentiment-analyzer
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -64,7 +64,7 @@ http://127.0.0.1:5000/
 
 ## 📁 Project Structure
 ```
-text-sentiment-analyzer/
+sentiment-analyzer/
 │
 ├── app.py
 ├── requirements.txt
