@@ -11,6 +11,7 @@ A simple web application that uses **NLTK's VADER** sentiment analysis tool to d
 
 ## 📸 Screenshot
 
+<img src="https://github.com/user-attachments/assets/3557cd27-1154-4764-9894-c14b6f291c91" width="700" alt="Screenshot">
 
 
 ## 🛠️ Technologies Used
