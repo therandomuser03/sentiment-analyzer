@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Flask's instance folder (if used)
+instance/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# SQLite database files (optional)
+*.sqlite3
+
+# Environment variables / secrets
+.env
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# pycache in subfolders
+**/__pycache__/
